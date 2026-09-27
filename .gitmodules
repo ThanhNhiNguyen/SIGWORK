@@ -1,0 +1,19 @@
+[submodule "sources/FraudGNN-RL"]
+	path = sources/FraudGNN-RL
+	url = https://github.com/Siddartha22/FraudGNN-RL.git
+
+[submodule "sources/QGNN"]
+	path = sources/QGNN
+	url = https://github.com/estasz/GNN-QGNN-FraudDetection.git
+
+[submodule "sources/FraudShield-AI"]
+	path = sources/FraudShield-AI
+	url = https://github.com/rohith-chitturi/FraudShield_AI.git
+
+[submodule "sources/FraudShield"]
+	path = sources/FraudShield
+	url = https://github.com/Omensah-15/FraudShield.git
+
+[submodule "sources/Hydro-TGT"]
+	path = sources/Hydro-TGT
+	url = https://github.com/mannetej11-gif/Hydro-TGT-Blockchain-Fraud-Detection.git
