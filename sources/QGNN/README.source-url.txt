@@ -1,0 +1,1 @@
+https://github.com/estasz/GNN-QGNN-FraudDetection
