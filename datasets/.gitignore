@@ -1,0 +1,12 @@
+# Raw benchmark data is downloaded locally and is not committed.
+
+IEEE-CIS/raw/*
+IEEE-CIS/*.zip
+
+Elliptic/raw/*
+Elliptic/*.zip
+
+# Allow folder documentation/scripts.
+!*/README.md
+!*/download.py
+!*/.gitignore
